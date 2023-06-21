@@ -47,9 +47,12 @@ body{
 }
 
 .header-pic{
+    background-image: url(/media/images/Oil/DALL·E\ 2023-05-23\ 13.18.43\ -\ 16\ 9\ ratio\ oil\ painting\ of\ farmland\ being\ turned\ into\ wildflower\ prarie\ meadow\ wildland.png);
+    background-repeat: no-repeat;
+    object-fit: cover;
+    object-position: ;
     height: 300px;
     width: 100%;
-    background-image: url("../media/images/Oil/purple.png");
 }
 
 .donate-info{
@@ -70,12 +73,12 @@ body{
     background-color: yellow;
 }
 
-.proj-list ul li{
+.proj-list1 ul li{
         list-style: none;
 }
       
-.proj-list ul li:before {
-        content: '✔  ';
+.proj-list1 ul li:before {
+        content: '✓';
 }
 
 .footer{
