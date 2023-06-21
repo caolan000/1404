@@ -15,6 +15,8 @@ html{
 body{
     background-color: var(--Ashg2);
     color: var(--Liver);
+    margin: 0;
+    padding: 0;
     font-family: 'Catamaran', sans-serif;
     /* font-family: 'Caladea', serif;
     font-family: 'Catamaran', sans-serif; */
@@ -27,27 +29,39 @@ body{
 }
 
 .nav{
-    display: flexbox;
+    display: flex;
     grid-area: nav;
     height: 75px;
     width: 100%;
     background-color: red;
 }
 
+.btns{
+    display: flex;
+}
+
 .header{
     grid-area: header;
+    height: 300px;
+    background-color: blue;
 }
 
 .donate-info{
     grid-area: info;
+    height: 200px;
+    background-color: purple;
 }
 
 .project1{
     grid-area: proj1;
+    height: 300px;
+    background-color: green;
 }
 
 .project2{
     grid-area: proj2;
+    height: 300px;
+    background-color: yellow;
 }
 
 .footer{
