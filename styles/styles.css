@@ -46,6 +46,12 @@ body{
     background-color: blue;
 }
 
+.header-pic{
+    height: 300px;
+    width: 100%;
+    background-image: url("../media/images/Oil/purple.png");
+}
+
 .donate-info{
     grid-area: info;
     height: 200px;
