@@ -13,6 +13,9 @@ html{
 }
 
 body{
-    background-color: var(--Ashg2)
-    color: var(--Liver)
+    background-color: var(--Ashg2);
+    color: var(--Liver);
+    font-family: 'Catamaran', sans-serif;
+    /* font-family: 'Caladea', serif;
+    font-family: 'Catamaran', sans-serif; */
 }
