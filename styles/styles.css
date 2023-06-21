@@ -25,3 +25,27 @@ body{
                         'proj2 proj2 proj2'
                         'footer footer footer';
 }
+
+.nav{
+    grid-area: nav;
+}
+
+.header{
+    grid-area: header;
+}
+
+.donate-info{
+    grid-area: info;
+}
+
+.project1{
+    grid-area: proj1;
+}
+
+.project2{
+    grid-area: proj2;
+}
+
+.footer{
+    grid-area: footer;
+}
