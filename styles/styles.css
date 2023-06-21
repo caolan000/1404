@@ -11,3 +11,8 @@
 html{
     scroll-behavior: smooth;
 }
+
+body{
+    background-color: var(--Ashg2)
+    color: var(--Liver)
+}
