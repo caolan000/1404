@@ -1,0 +1,13 @@
+:root{
+    --Liver: #66463B;
+    --Umber: #966B5B;
+    --Dun: #E1CFBB;
+    --Grey: #6B706A;
+    --Ashg1: #A3B2A4;
+    --Ashg2: #99a698;
+    --Grass: #4f634b;
+}
+
+html{
+    scroll-behavior: smooth;
+}
