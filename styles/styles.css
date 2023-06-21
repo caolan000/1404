@@ -64,6 +64,14 @@ body{
     background-color: yellow;
 }
 
+.proj-list1 ul li{
+        list-style: none;
+}
+      
+.proj-list1 ul li:before {
+        content: '✓';
+}
+
 .footer{
     grid-area: footer;
 }
