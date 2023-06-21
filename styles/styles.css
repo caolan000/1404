@@ -8,6 +8,10 @@
     --Grass: #4f634b;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 body{
     background-color: var(--Ashg2);
     color: var(--Liver);
@@ -23,7 +27,11 @@ body{
 }
 
 .nav{
+    display: flexbox;
     grid-area: nav;
+    height: 75px;
+    width: 100%;
+    background-color: red;
 }
 
 .header{
