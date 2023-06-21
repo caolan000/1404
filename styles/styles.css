@@ -64,12 +64,12 @@ body{
     background-color: yellow;
 }
 
-.proj-list1 ul li{
+.proj-list ul li{
         list-style: none;
 }
       
-.proj-list1 ul li:before {
-        content: '✓';
+.proj-list ul li:before {
+        content: '&#x2713;';
 }
 
 .footer{
