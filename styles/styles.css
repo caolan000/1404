@@ -69,7 +69,7 @@ body{
 }
       
 .proj-list ul li:before {
-        content: '&#x2713;';
+        content: '✔  ';
 }
 
 .footer{
